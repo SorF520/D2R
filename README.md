@@ -8,7 +8,7 @@ This is the official implementation of the paper "D2R: Dual-Branch Dynamic Routi
 
 The experiments were conducted on a single GeForce RTX 3090 GPU with 24GB memory. 
 
-* Python 3.8.17
+* Python 3.7.16
 * PyTorch 1.7.1
 * CUDA 11.2
 
